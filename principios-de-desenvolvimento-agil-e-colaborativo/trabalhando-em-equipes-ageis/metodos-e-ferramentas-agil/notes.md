@@ -104,7 +104,7 @@ O Quadro Kanban é o coração do sistema e representa o fluxo de trabalho da eq
 
 ### OKR
 
-OKR (Objectives and Key Results) é um sistema de gerenciamento de desempenho amplamente adotado em empresas e organizações para definir e acompanhar metas e resultados. Ele foi popularizado por empresas como Google e Intel e é utilizado para alinhar equipes e indivíduos aos objetivos estratégicos da organização.
+OKR (_Objectives and Key Results_) é um sistema de gerenciamento de desempenho amplamente adotado em empresas e organizações para definir e acompanhar metas e resultados. Ele foi popularizado por empresas como Google e Intel e é utilizado para alinhar equipes e indivíduos aos objetivos estratégicos da organização.
 
 **Componentes**:
 
