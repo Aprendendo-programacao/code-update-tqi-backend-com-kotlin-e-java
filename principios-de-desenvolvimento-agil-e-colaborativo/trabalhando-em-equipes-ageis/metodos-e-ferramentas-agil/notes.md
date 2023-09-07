@@ -122,7 +122,7 @@ OKR (_Objectives and Key Results_) é um sistema de gerenciamento de desempenho 
 
 4. **Agilidade**: O OKR é flexível e pode ser adaptado rapidamente à medida que as circunstâncias mudam. Ele é frequentemente definido em ciclos curtos, como trimestres.
 
-**Benefícios do OKR**:
+**Benefícios**:
 
 1. **Alinhamento**: OKRs garantem que todos na organização estejam trabalhando na mesma direção, alinhados com os objetivos estratégicos.
 
@@ -130,6 +130,6 @@ OKR (_Objectives and Key Results_) é um sistema de gerenciamento de desempenho 
 
 3. **Responsabilização**: OKRs são públicos e todos são responsáveis por seu cumprimento. Isso promove a responsabilidade individual e coletiva.
 
-4. **Feedback e Aprendizado**: A medição contínua do progresso permite que as equipes aprendam com seus sucessos e fracassos e façam ajustes conforme necessário.
+4. **Feedback e aprendizado**: A medição contínua do progresso permite que as equipes aprendam com seus sucessos e fracassos e façam ajustes conforme necessário.
 
 O OKR é uma ferramenta poderosa para aumentar a eficácia organizacional, mas sua implementação bem-sucedida requer disciplina e compromisso em todos os níveis da organização. É uma abordagem flexível que se adapta a uma variedade de contextos e setores.
