@@ -73,3 +73,31 @@ O XP é conhecido por enfatizar práticas como desenvolvimento orientado a teste
 8. **Estimativas Ágeis**: Em vez de estimativas detalhadas, o XP usa estimativas ágeis, como "pontos de história", para medir o esforço necessário para concluir as tarefas.
 
 O XP é adequado para projetos em que os requisitos podem mudar com frequência e onde a colaboração próxima com o cliente é essencial. Ele promove a transparência, qualidade e adaptabilidade, tornando-o uma escolha popular para equipes de desenvolvimento de software.
+
+## Kanban
+
+O Kanban foi criado no Japão nas fábricas da Toyota nas décadas de 1940 e 1950. Seu desenvolvimento está intrinsecamente ligado aos princípios do _Lean Manufacturing_, um sistema de produção focado na redução de desperdícios e na melhoria contínua. O termo "kanban" significa "cartão visual" em japonês. Originalmente, o Kanban era um sistema físico que usava cartões para controlar o fluxo de peças em uma linha de produção. Cada cartão representava uma unidade de produção e era usado para solicitar a reposição de peças quando necessário. Esse sistema permitia que a Toyota mantivesse um estoque mínimo e respondesse rapidamente às mudanças na demanda.
+
+O Kanban é amplamente utilizado em equipes ágeis de desenvolvimento de software, suporte de TI, gerenciamento de projetos e em muitos outros contextos para gerenciar e otimizar o trabalho de forma eficiente.
+
+### Principais características
+
+1. **Visualização do Fluxo de Trabalho**: O Kanban utiliza um quadro visual para representar o fluxo de trabalho. Cada etapa do processo é representada por uma coluna no quadro, e as tarefas são representadas por cartões ou post-its que se movem entre as colunas à medida que o trabalho avança.
+
+2. **Limitação de Trabalho em Andamento (WIP)**: Uma das características mais distintivas do Kanban é a limitação de WIP. Isso significa que cada coluna no quadro tem um limite estrito de quantas tarefas podem estar em andamento ao mesmo tempo. Isso ajuda a evitar a sobrecarga de trabalho e a manter um fluxo constante.
+
+3. **Focus na Demanda do Cliente**: O Kanban é orientado pela demanda do cliente. As tarefas só são iniciadas quando há uma demanda real, evitando assim a superprodução.
+
+4. **Melhoria Contínua**: O Kanban promove a melhoria contínua do processo. À medida que a equipe trabalha com o sistema, são identificados gargalos e oportunidades de otimização. Essas melhorias são implementadas gradualmente.
+
+### Quadro Kanban
+
+O Quadro Kanban é o coração do sistema e representa o fluxo de trabalho da equipe. Os principais conceitos incluem:
+
+1. **Colunas**: Cada coluna no quadro representa uma etapa do processo, como "A fazer", "Em andamento" e "Concluído". As colunas podem ser personalizadas para se adequar ao processo específico da equipe.
+
+2. **Cartões**: Os cartões representam tarefas individuais. Cada cartão contém informações sobre a tarefa, como descrição, responsável e prazo.
+
+3. **Limites de WIP**: Cada coluna tem um limite de quantos cartões podem estar nela ao mesmo tempo. Isso evita a sobrecarga de trabalho e mantém o fluxo constante.
+
+4. **Puxar vs. Empurrar**: O Kanban é um sistema "puxado" em oposição a um sistema "empurrado". Isso significa que as tarefas só são iniciadas quando há capacidade disponível na coluna seguinte, em vez de serem empurradas para a próxima etapa automaticamente.
