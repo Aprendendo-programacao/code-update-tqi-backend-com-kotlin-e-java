@@ -27,3 +27,49 @@
 6. **Exemplos:** Um processo é a linha de montagem de um carro em uma fábrica. Um projeto é a construção de um novo modelo de carro.
 
 Em resumo, processos são rotinas de negócios estabelecidas para alcançar eficiência e consistência, enquanto projetos são empreendimentos únicos criados para entregar um resultado específico. Ambos desempenham papéis cruciais nas operações de uma organização, mas têm naturezas e características diferentes.
+
+## Gerenciamento de projetos
+
+O gerenciamento de projetos é fundamental para planejar, executar e controlar iniciativas de forma eficaz. Duas abordagens amplamente utilizadas são o modelo tradicional em cascata (Waterfall) e o modelo ágil com Scrum. Vamos entender suas principais diferenças:
+
+**Modelo tradicional em cascata (Waterfall):**
+
+1. **Sequencial:** O modelo Waterfall segue uma abordagem linear e sequencial. Cada fase do projeto (planejamento, análise, design, implementação, teste, manutenção) deve ser concluída antes de passar para a próxima.
+
+2. **Escopo Fixo:** O escopo do projeto é definido no início e raramente pode ser alterado durante o processo. Mudanças frequentes são desencorajadas.
+
+3. **Documentação Extensa:** Requer documentação detalhada em cada fase, incluindo especificações, planos e relatórios extensos.
+
+4. **Entrega no Final:** O cliente normalmente recebe o produto ou serviço no final do projeto, após todas as fases terem sido concluídas.
+
+5. **Mudanças Custosas:** Mudanças no escopo ou requisitos após o início do projeto podem ser caras e complexas de implementar.
+
+**Modelo ágil com Scrum:**
+
+1. **Iterativo e Incremental:** O modelo Scrum é iterativo, com ciclos curtos de desenvolvimento chamados de "sprints". Cada sprint produz um incremento do produto.
+
+2. **Flexibilidade de Escopo:** O escopo é flexível e pode ser ajustado a cada sprint. Isso permite que os clientes reavaliem prioridades e requisitos continuamente.
+
+3. **Comunicação Constante:** A colaboração e a comunicação são enfatizadas, com reuniões diárias curtas (stand-ups) para acompanhar o progresso e resolver problemas.
+
+4. **Entregas Frequentes:** O cliente recebe entregas parciais do produto após cada sprint, permitindo feedback constante e adaptações durante o desenvolvimento.
+
+5. **Mudanças Bem-Vindas:** As mudanças são bem-vindas e integradas facilmente, pois o processo está preparado para acomodá-las.
+
+**Comparação:**
+
+- **Flexibilidade:** O Scrum é altamente flexível e pode se adaptar facilmente a mudanças, enquanto o Waterfall é menos flexível devido à natureza sequencial.
+
+- **Comunicação:** O Scrum promove a comunicação constante entre equipe e cliente, enquanto o Waterfall pode ter comunicação mais limitada.
+
+- **Entrega de Valor:**
+  
+  O Waterfall entrega o produto completo no final do projeto.
+
+  ![](./assets/valor-a-ser-entrege-modelo-tradicional.png)
+
+  O Scrum entrega valor de forma mais rápida e frequente, permitindo ao cliente usar o produto mais cedo.
+
+  ![](./assets/valor-a-ser-entrege-modelo-agil.png)
+
+- **Complexidade:** Projetos complexos ou inovadores muitas vezes se beneficiam do Scrum, enquanto projetos simples e bem definidos podem se adequar ao Waterfall.
