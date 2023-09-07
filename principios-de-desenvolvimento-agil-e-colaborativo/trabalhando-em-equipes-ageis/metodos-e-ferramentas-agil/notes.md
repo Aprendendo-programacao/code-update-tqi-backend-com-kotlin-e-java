@@ -18,6 +18,8 @@ O Framework Scrum é uma das abordagens mais populares para o gerenciamento ági
 
 3. **Adaptação**: Com base nas inspeções, a equipe ajusta seus planos e abordagem para maximizar o valor entregue.
 
+![](./assets/scrum-visao-geral.png)
+
 **Papéis:**
 
 1. **Product Owner:** Responsável por representar os interesses do cliente ou do produto, definir as funcionalidades a serem desenvolvidas e priorizar o trabalho no Backlog do Produto.
@@ -46,4 +48,4 @@ O Framework Scrum é uma das abordagens mais populares para o gerenciamento ági
 
 5. **Retrospectiva da sprint:** Uma reunião no final da Sprint em que a equipe revisa seu próprio desempenho e identifica melhorias para a próxima Sprint.
 
-O Scrum é conhecido por sua capacidade de se adaptar a mudanças rápidas, promovendo a colaboração entre as partes interessadas e focando na entrega incremental de valor. É uma estrutura valiosa para equipes que desejam gerenciar projetos de forma ágil e responsiva.
+O Scrum é considerado um framework ágil em vez de uma metodologia ágil devido à sua natureza flexível e adaptável. Enquanto metodologias geralmente fornecem um conjunto rígido de regras e processos a serem seguidos, o Scrum oferece orientações de alto nível e um conjunto de papéis, eventos e artefatos que podem ser adaptados para atender às necessidades específicas de uma equipe ou organização. Isso permite que as equipes apliquem os princípios ágeis de forma personalizada, ajustando o Scrum para se adequar às suas circunstâncias únicas. Essa flexibilidade é uma das razões pelas quais o Scrum é amplamente adotado e valorizado por equipes em diferentes setores e contextos.
