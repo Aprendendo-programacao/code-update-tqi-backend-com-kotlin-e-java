@@ -53,3 +53,21 @@ O **Manifesto Ágil** é um documento fundamental no desenvolvimento de software
 11. **As melhores arquiteturas, requisitos e designs emergem de equipes auto-organizadas**: Reconhece que equipes auto-organizadas têm a capacidade de tomar decisões importantes sobre arquitetura, requisitos e design. Isso promove a criatividade e a inovação.
 
 12. **Em intervalos regulares, a equipe reflete sobre como ficar mais eficaz e então refina e ajusta seu comportamento de acordo**: Destaca a importância da melhoria contínua. As equipes ágeis periodicamente refletem sobre seu próprio desempenho e procuram maneiras de se tornarem mais eficazes.
+
+## Características de uma equipe ágil
+
+As equipes ágeis são notáveis pela capacidade de adaptação, moldando-se de acordo com o cenário em que atuam. Portanto, as características a seguir podem variar, mas, de forma geral, uma equipe ágil possui os seguintes traços:
+
+1. **Orientação para o Cliente e Stakeholders:** Equipes ágeis mantêm uma estreita relação com o cliente e outros stakeholders, como investidores e patrocinadores. Isso garante que o trabalho esteja sempre alinhado com as necessidades e expectativas das partes interessadas.
+
+2. **Auto-Organização e Responsabilidade:** Elas são auto-organizadas, o que significa que têm a capacidade de gerenciar seu próprio trabalho, tomar decisões e definir prioridades. Isso promove a responsabilidade individual e coletiva.
+
+3. **Multidisciplinaridade:** As equipes ágeis são compostas por membros com diferentes conjuntos de habilidades. Essa diversidade de conhecimento permite abordagens criativas para os desafios do projeto.
+
+4. **Entrega Contínua de Valor:** Uma característica fundamental é a entrega contínua de valor. Isso significa que, em vez de esperar até o final do projeto, a equipe entrega partes funcionais do produto regularmente, garantindo que o cliente obtenha benefícios desde o início.
+
+5. **Aprendizado e Melhoria Constantes:** As equipes ágeis valorizam a aprendizagem contínua e buscam melhorar constantemente seu processo e produto. Elas avaliam seu desempenho e buscam maneiras de otimizar seu trabalho.
+
+6. **Métricas e Metas Bem Definidas:** Para medir o progresso e o sucesso, as equipes ágeis estabelecem métricas claras e metas específicas. Isso fornece um roteiro para avaliar o desempenho e orientar os esforços de melhoria.
+
+Como resultado dessas características, as equipes ágeis tendem a ser altamente coesas, trabalhando de forma colaborativa e eficaz para atingir os objetivos do projeto. Eles são um exemplo de como a flexibilidade, a comunicação aberta e a busca constante pela excelência podem impulsionar o sucesso em um ambiente de desenvolvimento de software ágil.
