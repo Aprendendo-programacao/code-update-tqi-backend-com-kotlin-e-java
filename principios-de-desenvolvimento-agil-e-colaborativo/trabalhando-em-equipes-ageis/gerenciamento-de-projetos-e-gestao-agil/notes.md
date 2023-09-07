@@ -73,3 +73,33 @@ O gerenciamento de projetos é fundamental para planejar, executar e controlar i
   ![](./assets/valor-a-ser-entrege-modelo-agil.png)
 
 - **Complexidade:** Projetos complexos ou inovadores muitas vezes se beneficiam do Scrum, enquanto projetos simples e bem definidos podem se adequar ao Waterfall.
+
+## Gestão ágil
+
+A gestão ágil é uma abordagem moderna e flexível para o gerenciamento de projetos que se concentra em atender às necessidades do cliente de forma eficaz e responsiva. Em vez de seguir um plano rígido e pré-definido, como no modelo tradicional em cascata (Waterfall), a gestão ágil valoriza a colaboração, a adaptação e a entrega incremental. Aqui estão os princípios fundamentais da gestão ágil:
+
+1. **Colaboração com o cliente:** O envolvimento do cliente é crucial. Os clientes têm a oportunidade de dar feedback contínuo, o que ajuda a equipe a entender e atender às suas necessidades em constante evolução.
+
+2. **Entrega incremental:** Os projetos são divididos em iterações curtas e chamadas de "sprints". No final de cada sprint, uma parte do produto é entregue e pode ser usada pelo cliente. Isso permite que o cliente obtenha valor mais cedo e influencie o desenvolvimento.
+
+3. **Adaptação contínua:** A capacidade de responder a mudanças é uma prioridade. Se os requisitos mudarem ou novos desafios surgirem, a equipe ágil pode se adaptar de forma rápida e eficiente.
+
+4. **Auto-organização da equipe:** As equipes ágeis são frequentemente auto-organizadas, o que significa que têm a autonomia de tomar decisões e gerenciar seu próprio trabalho. Isso promove a responsabilidade e a eficiência.
+
+5. **Entrega de valor:** A entrega de valor ao cliente é central. Em vez de se concentrar apenas na conclusão de tarefas, a equipe busca criar produtos que realmente atendam às necessidades do cliente.
+
+6. **Comunicação e transparência:** A comunicação é constante e aberta. Reuniões diárias curtas, como stand-ups, ajudam a equipe a acompanhar o progresso e a resolver problemas rapidamente.
+
+7. **Métricas significativas:** As métricas são usadas para avaliar o progresso, mas as métricas significativas, como a satisfação do cliente e a entrega de funcionalidades úteis, são mais valorizadas do que métricas tradicionais, como prazos rígidos.
+
+8. **Qualidade incorporada:** A qualidade não é comprometida. A equipe busca construir qualidade em cada etapa do processo, em vez de corrigir erros no final.
+
+9. **Aceitação de mudanças:** A gestão ágil aceita que as mudanças são inevitáveis e, em vez de resistir a elas, acomoda-as de maneira eficiente.
+
+**Métodos ágeis comuns:**
+
+- **Scrum:** Um dos métodos ágeis mais populares, que organiza o trabalho em sprints de duas a quatro semanas e utiliza papéis definidos, como Scrum Master e Product Owner.
+
+- **KanBan:** Um sistema de gerenciamento visual que permite controlar o fluxo de trabalho e otimizar a produtividade.
+
+- **Extreme Programming (XP):** Enfatiza a qualidade do código, com testes automáticos e desenvolvimento orientado a pares.
