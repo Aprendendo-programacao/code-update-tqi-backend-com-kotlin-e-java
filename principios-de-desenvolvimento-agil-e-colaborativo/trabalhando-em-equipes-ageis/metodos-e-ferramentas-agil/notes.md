@@ -101,3 +101,35 @@ O Quadro Kanban é o coração do sistema e representa o fluxo de trabalho da eq
 3. **Limites de WIP**: Cada coluna tem um limite de quantos cartões podem estar nela ao mesmo tempo. Isso evita a sobrecarga de trabalho e mantém o fluxo constante.
 
 4. **Puxar vs. Empurrar**: O Kanban é um sistema "puxado" em oposição a um sistema "empurrado". Isso significa que as tarefas só são iniciadas quando há capacidade disponível na coluna seguinte, em vez de serem empurradas para a próxima etapa automaticamente.
+
+### OKR
+
+OKR (Objectives and Key Results) é um sistema de gerenciamento de desempenho amplamente adotado em empresas e organizações para definir e acompanhar metas e resultados. Ele foi popularizado por empresas como Google e Intel e é utilizado para alinhar equipes e indivíduos aos objetivos estratégicos da organização.
+
+**Componentes**:
+
+1. **Objetivos (Objectives)**: Os objetivos são **descrições concisas e qualitativas** que definem o que a organização deseja alcançar em um determinado período. Eles devem ser inspiradores, ambiciosos e específicos.
+
+2. **Resultados-Chave (Key Results)**: Os resultados-chave são **metas** atreladas a métricas quantitativas e específicas que indicam o progresso em direção aos objetivos. Eles são _SMART_, ou seja, mensuráveis, alcançáveis e relevantes e temporais para o objetivo. Cada objetivo pode ter vários resultados-chave associados.
+
+**Principais características**:
+
+1. **Simplicidade**: O OKR é projetado para ser simples e fácil de entender. Cada equipe ou indivíduo define um pequeno número de objetivos (geralmente de 3 a 5) com alguns resultados-chave para cada um.
+
+2. **Transparência**: Os OKRs são frequentemente compartilhados com toda a organização. Isso promove a transparência e ajuda na construção de um ambiente de colaboração.
+
+3. **Foco em Resultados**: O sistema coloca grande ênfase em resultados mensuráveis e tangíveis. Isso ajuda a evitar a armadilha de simplesmente completar tarefas sem atingir os resultados desejados.
+
+4. **Agilidade**: O OKR é flexível e pode ser adaptado rapidamente à medida que as circunstâncias mudam. Ele é frequentemente definido em ciclos curtos, como trimestres.
+
+**Benefícios do OKR**:
+
+1. **Alinhamento**: OKRs garantem que todos na organização estejam trabalhando na mesma direção, alinhados com os objetivos estratégicos.
+
+2. **Foco**: Eles ajudam as equipes a se concentrarem nas prioridades críticas e evitarem distrações.
+
+3. **Responsabilização**: OKRs são públicos e todos são responsáveis por seu cumprimento. Isso promove a responsabilidade individual e coletiva.
+
+4. **Feedback e Aprendizado**: A medição contínua do progresso permite que as equipes aprendam com seus sucessos e fracassos e façam ajustes conforme necessário.
+
+O OKR é uma ferramenta poderosa para aumentar a eficácia organizacional, mas sua implementação bem-sucedida requer disciplina e compromisso em todos os níveis da organização. É uma abordagem flexível que se adapta a uma variedade de contextos e setores.
