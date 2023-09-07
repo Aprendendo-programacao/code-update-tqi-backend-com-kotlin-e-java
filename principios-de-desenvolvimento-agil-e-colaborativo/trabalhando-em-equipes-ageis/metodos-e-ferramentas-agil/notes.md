@@ -49,3 +49,27 @@ O Framework Scrum é uma das abordagens mais populares para o gerenciamento ági
 5. **Retrospectiva da sprint:** Uma reunião no final da Sprint em que a equipe revisa seu próprio desempenho e identifica melhorias para a próxima Sprint.
 
 O Scrum é considerado um framework ágil em vez de uma metodologia ágil devido à sua natureza flexível e adaptável. Enquanto metodologias geralmente fornecem um conjunto rígido de regras e processos a serem seguidos, o Scrum oferece orientações de alto nível e um conjunto de papéis, eventos e artefatos que podem ser adaptados para atender às necessidades específicas de uma equipe ou organização. Isso permite que as equipes apliquem os princípios ágeis de forma personalizada, ajustando o Scrum para se adequar às suas circunstâncias únicas. Essa flexibilidade é uma das razões pelas quais o Scrum é amplamente adotado e valorizado por equipes em diferentes setores e contextos.
+
+## Extreme Programming (XP)
+
+Extreme Programming (XP) é uma abordagem ágil de desenvolvimento de software que se concentra em melhorar a qualidade e a eficiência da entrega de software. Ela foi criada por Kent Beck no final dos anos 90 e se tornou uma das metodologias ágeis mais populares.
+
+O XP é conhecido por enfatizar práticas como desenvolvimento orientado a testes (TDD), integração contínua, programação em pares e feedback contínuo do cliente. Aqui estão alguns dos princípios e práticas-chave do XP:
+
+1. **Desenvolvimento Orientado a Testes (TDD)**: Os desenvolvedores escrevem testes antes de escrever o código de produção. Isso garante que o código seja testado automaticamente e que novos recursos não quebrem os existentes.
+
+2. **Integração contínua**: As alterações de código são integradas ao repositório principal várias vezes ao dia. Isso ajuda a evitar conflitos e identificar problemas rapidamente.
+
+3. **Programação em pares**: Os desenvolvedores trabalham em pares, revisando o código um do outro. Isso promove a colaboração, compartilhamento de conhecimento e redução de erros.
+
+4. **Interação próxima com o cliente**: O cliente ou representante do cliente está envolvido no processo de desenvolvimento, fornecendo feedback constante sobre os requisitos e prioridades.
+
+5. **Refatoração**: O código é continuamente aprimorado para torná-lo mais simples, legível e eficiente.
+
+6. **Design simples**: O XP valoriza o design simples e funcional em vez de criar soluções excessivamente complexas.
+
+7. **Pequenas versões frequentes**: O software é entregue em pequenas versões funcionais, permitindo que o cliente comece a usá-lo mais cedo e forneça feedback valioso.
+
+8. **Estimativas Ágeis**: Em vez de estimativas detalhadas, o XP usa estimativas ágeis, como "pontos de história", para medir o esforço necessário para concluir as tarefas.
+
+O XP é adequado para projetos em que os requisitos podem mudar com frequência e onde a colaboração próxima com o cliente é essencial. Ele promove a transparência, qualidade e adaptabilidade, tornando-o uma escolha popular para equipes de desenvolvimento de software.
